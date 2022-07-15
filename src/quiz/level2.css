@@ -1,0 +1,20 @@
+.room {
+}
+
+.room .cactus {
+  transform: scale(-1, 1);
+}
+
+.room .books {
+  top: 130px;
+  left: 250px;
+}
+
+.room .clock {
+}
+
+.room .picture {
+}
+
+.room .vase {
+}
